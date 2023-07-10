@@ -3,5 +3,6 @@ I am responsible for creating 100% of frontend components.These frontend compone
 ![ch4](https://github.com/Saad276/Church-Management-Application/assets/96050684/a8e27c85-d909-4beb-a88f-2c9b96f97650)
 ![ch5](https://github.com/Saad276/Church-Management-Application/assets/96050684/e9b05083-801e-4f7e-9cce-7084395f7cb2)
 ![ch2](https://github.com/Saad276/Church-Management-Application/assets/96050684/75baaf10-3ba4-4f76-861f-9e62b64704cf)
-![ch3](https://github.com/Saad276/Church-Management-Application/assets/96050684/2547afd0-644f-4cb5-b200-78a69b4cecf4)
-![ch1](https://github.com/Saad276/Church-Management-Application/assets/96050684/4640d3db-21f2-4b1f-bea9-9320001fe290)
+![ch3](https://github.com/Saad276/Church-Management-Application/assets/96050684/0d08782a-9e4c-4761-b26b-404b26c53805)
+![ch1](https://github![ch3](https://github.com/Saad276/Church-Management-Application/assets/96050684/ea98a4c7-c2c1-4d93-9d61-f2c2d6240c9f)
+
